@@ -1,6 +1,3 @@
-# create-xlsx-file-sample
-A simple project done in nodejs that creates a .xlsx file, simulating a users report.
-
 <h1>create-xlsx-file-sample</h1>
 
 A simple project done in **nodejs** that creates a .xlsx file, simulating a users report.
