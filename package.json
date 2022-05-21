@@ -1,0 +1,26 @@
+{
+  "name": "create-xlsx-file-sample",
+  "version": "1.0.0",
+  "description": "This project show a simple way to create .xlsx file using nodejs.",
+  "main": "app.js",
+  "author": "Lucas Moreira",
+  "license": "ISC",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "exceljs": "^4.3.0",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.13.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^6.15.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-prettier": "^3.1.4",
+    "nodemon": "^2.0.16",
+    "prettier": "^2.1.2",
+    "sucrase": "^3.21.0"
+  }
+}
